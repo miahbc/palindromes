@@ -1,3 +1,5 @@
-exports.palindrome = function(word) {
-
+function(word) {
+    
 };
+
+exports.palindrome = function(word)
